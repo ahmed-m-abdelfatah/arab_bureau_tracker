@@ -14,4 +14,4 @@ view live: [Click Here](./TASKS.md)
 
 ### Images V2.0
 
-[](./v2-img/Admin.png)
+![v2](./v2-img/Admin.png)
