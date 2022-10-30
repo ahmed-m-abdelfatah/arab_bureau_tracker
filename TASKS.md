@@ -12,12 +12,18 @@
 - [X] Frontend | Add sign up page
 - [X] Frontend | Add forget password page
 - [X] Frontend | Add reset password page
-- [ ] Frontend | Edit user name must start with @
-- [ ] Frontend | Add 3 languages for home page only
-- [ ] Frontend | Add joi validation
-  - [ ] 1. login form
-  - [ ] 2. job form
-- [ ] Frontend | Link frontend with backend
+- [X] Frontend | Edit user name must start with @
+- [X] Frontend | protected routes
+- [X] Frontend | token protection every 1m
+- [ ] Frontend | Add 3 languages for home page only  -- i think it is not necessary
+- [X] Frontend | forms
+  - [X] 1. login form
+  - [X] 2. add new job form
+  - [X] 2. update job form
+  - [X] 3. reset password form after login
+  - [X] 4. update user form name or username
+  - [X] 5. delete profile
+- [X] Frontend | Link frontend with backend
 - [X] Backend  | Add authorization
 - [X] Backend  | Add authentication to all apis
   - [X] 1. login -- login duration 8hr
@@ -51,6 +57,7 @@
   - https://youtu.be/kmrJkrW-ha0
   - https://youtu.be/PNtFSVU-YTI
   - https://youtu.be/4KHiSt0oLJ0
+  - https://youtu.be/zgKH12s_95A
 - Github
   - https://github.com/vercel/next.js/tree/canary/examples
   - https://github.com/gopinav/Next-JS-Tutorials
@@ -68,3 +75,6 @@
   - https://stackoverflow.com/a/71723701
   - https://stackoverflow.com/a/65200808
   - https://stackoverflow.com/a/68259661
+  - https://stackoverflow.com/a/64138369
+  - https://dev.to/shubhamverma/implement-protected-routes-in-nextjs-37ml
+  - https://stackoverflow.com/a/38340730
