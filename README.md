@@ -6,7 +6,7 @@ view live: [Click Here](https://ahmed-mo1300.github.io/arab-bureau-v1)
 
 ### V2.0
 
-view live: [Click Here](https://arab-bureau-v2.herokuapp.com)
+view live: [Click Here](https://arab-bureau-v2.herokuapp.com) - heroku no longer free (Application Error)
 
 ### Tasks
 
@@ -18,7 +18,6 @@ view live: [Click Here](./TASKS.md)
 ![v1](./v1-img/Home.png)
 
 ### Images V2.0
-
 ![v2](./v2-img/Home.png)
 ![v2](./v2-img/Careers.png)
 ![v2](./v2-img/Signup.png)
