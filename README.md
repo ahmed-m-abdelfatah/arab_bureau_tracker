@@ -10,7 +10,7 @@ view live: [Click Here](https://arab-bureau-v2.herokuapp.com) - heroku no longer
 [Click Here](./TASKS.md)
 
 # Source code
-- [Source code](https://github.com/ahmed-m-abdelfatah/arab_bureau)
+[Source code](https://github.com/ahmed-m-abdelfatah/arab_bureau)
 
 ---
 
