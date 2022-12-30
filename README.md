@@ -4,7 +4,7 @@
 view live: [Click Here](https://ahmed-mo1300.github.io/arab-bureau-v1)
 
 ### V2.0
-view live: [Click Here](https://arab-bureau-v2.herokuapp.com) - heroku no longer free (Application Error)
+view live: [Click Here](https://arab-bureau-v2.onrender.com)
 
 ### Tasks
 [Click Here](./TASKS.md)
